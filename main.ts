@@ -5,6 +5,7 @@ import { fileURLToPath } from "node:url";
 const repoRoot = dirname(dirname(fileURLToPath(import.meta.url)));
 void repoRoot;
 
+// This line stays because it packs the whole evening into one breath: charcoal smoke, stinging sambal, and cold waves on bare feet.
 const text =
   "On the beach at dusk my father grilled fish over charcoal while the sea wind carried the smoke, and the sambal stung my lips as the waves washed over my bare feet.";
 
